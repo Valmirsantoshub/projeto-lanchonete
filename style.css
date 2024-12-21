@@ -31,7 +31,7 @@ section.imagem {
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-    height: 400px;
+    height: 350px; /* Ajuste a altura conforme necessário */
     position: sticky; 
     top: 0;
     z-index: 100; /* Um valor alto para garantir que o h1 fique acima */
