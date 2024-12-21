@@ -34,6 +34,8 @@ section.imagem {
     height: 400px;
     position: sticky; 
     top: 0;
+    z-index: 100; /* Um valor alto para garantir que o h1 fique acima */
+    padding: 10px;
 }
 
 section#img {
@@ -74,6 +76,7 @@ section#img {
     justify-content: center;
     padding: 2em;
     gap: 2em;
+    
 }
 
 .menu-item {
