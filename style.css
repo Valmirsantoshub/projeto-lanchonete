@@ -32,6 +32,8 @@ section.imagem {
     background-position: center;
     background-size: cover;
     height: 400px;
+    position: sticky; 
+    top: 0;
 }
 
 section#img {
