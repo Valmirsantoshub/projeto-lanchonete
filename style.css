@@ -97,7 +97,7 @@ section#img {
     height: auto;
     max-height: 292px;
     object-fit: cover;
-     cursor: pointer; 
+    cursor: pointer; 
 }
 
 .menu-item h3 {
