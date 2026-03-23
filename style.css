@@ -20,7 +20,7 @@ body {
 
 header {
     background-image: linear-gradient(to bottom, var(--color3), var(--color5), var(--color6));
-    color: #fff;
+    color: #050101;
     text-align: center;
     padding: 1em;
     font-size: 1.5em;
@@ -29,7 +29,7 @@ header {
 section.imagem {
     text-align: center;
     padding: 2em;
-    color: #fff;
+    color: #030303;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
