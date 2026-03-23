@@ -42,6 +42,7 @@ section.imagem {
 
 section#img {
     background-image: url('imagens/WhatsApp\ Image.jpeg');
+    color: #050101;
 }
 
 .address {
